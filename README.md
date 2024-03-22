@@ -18,4 +18,7 @@ Install pod:
 pod update
 ````
 
-Set your organisation id at `SDKViewController.swift`: `Saooti.setOrganisationId("<organisation_id>")`.
+Set your organisation id at `SDKViewController.swift`: 
+````
+Saooti.setOrganisationId("<organisation_id>")`
+````
